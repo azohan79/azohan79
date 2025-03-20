@@ -1,3 +1,4 @@
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={azohan79}&theme={default}
 - 👋 Hi, I’m @azohan79
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -21,4 +22,6 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
